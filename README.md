@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **solana development with Anchor**
 
-- 💬 Ask me about **rust, react**
+- 💬 Ask me about **rust, solana programs, anchor framework**
 
 - 📫 How to reach me **shubham.singh12500@gmail.com**
 
