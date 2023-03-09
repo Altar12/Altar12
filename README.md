@@ -2,7 +2,7 @@
 <h3 align="center">Rust/Solana developer | Web3 enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **solana development with Anchor**
+- 🌱 I’m currently delving into **solana development with Anchor**
 
 - 💬 Ask me about **rust, solana programs, anchor framework**
 
