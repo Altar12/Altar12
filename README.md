@@ -2,9 +2,11 @@
 <h3 align="center">Rust/Solana developer | Web3 enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently delving into **solana development with Anchor**
+- 🌱 I’m currently delving into **solana development, DeFi and NFTs**
 
-- 💬 Ask me about **rust, solana programs, anchor framework**
+- ✍️ I write articles about rust and solana development on <a href="https://medium.com/@altaaar" target="blank">**medium**</a>
+
+- 💬 Ask me about **rust programming, solana development, anchor framework**
 
 - 📫 How to reach me **shubham.singh12500@gmail.com**
 
